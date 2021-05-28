@@ -1,6 +1,4 @@
 Input Data mahasiswa
-[![N|Solid](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/input.png)](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/input.png)
+[![N|Solid](https://github.com/ami-droid-boop/Muhammad-Khatammi/blob/master/SS%20output%20Mahasiswa.png)](https://github.com/ami-droid-boop/Muhammad-Khatammi/blob/master/SS%20output%20Mahasiswa.png)
 Update data mahasiswa
-[![N|Solid](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/Update.png)](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/Update.png)
-Remove & Search
-[![N|Solid](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/remove%20%26%20Search.png)](https://github.com/muhammadrizki25/MuhammadRizki/blob/master/remove%20%26%20Search.png)
+[![N|Solid]()]()
